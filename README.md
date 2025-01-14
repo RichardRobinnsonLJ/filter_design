@@ -51,7 +51,7 @@ This repository contains a Python program for designing RL, RC, or LC filters, i
   - Other related parameters
 
 ## Code Structure
-- `filter_design.py`: The main script containing the logic for filter design.
+- `passive_filter_design.py`: The main script containing the logic for filter design.
 - `README.md`: Documentation for understanding and using the tool.
 
 ## Future Enhancements
